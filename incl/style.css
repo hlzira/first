@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    outline: none;
+}
+.header{
+    background-color: #75151E;
+    font-family: 'Geologica', sans-serif;
+}
+.header-btn{
+    color: white;
+    text-decoration: none;
+}
+.header-btn:hover{
+    text-decoration: underline;
+}
+.header-text{
+    color: black;
+}
